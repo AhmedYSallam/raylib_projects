@@ -5,3 +5,5 @@
 ![Raylib_logo](https://github.com/user-attachments/assets/af1cec98-c915-4fbf-b680-d9b6809caa02)  
 **What is raylib?**  
 - Raylib is a simple and easy-to-use library for game programming and multimedia applications. It is designed to be easy to learn and use, making it an excellent choice for beginners and those looking to create games or graphical applications quickly.
+  
+To learn how to install raylib please follow the instructions in the main repo: https://github.com/raysan5/raylib
