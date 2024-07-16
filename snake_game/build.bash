@@ -1,0 +1,1 @@
+g++ main.cpp snake.cpp food.cpp commonUtils.cpp game.cpp -o App -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
